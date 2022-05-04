@@ -1,0 +1,49 @@
+body{
+  background-color: #DDF3F5;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-size: 110%
+}
+
+hr{
+  color: #A6DCEF;
+  size: "3" noshade;
+
+border-style: dotted none none none;
+border-color: gray;
+
+border-width: 4px
+}
+
+h1{color: #086972;
+
+}
+
+h2{
+  color: #336D88;
+}
+
+.logo{
+  height: 30px;
+  width: auto;
+  border-radius: 30%;
+  font-size: 150%
+
+
+}
+
+.profilepic{
+  height: 400px;
+  width: 320px;
+  border-radius: 30%;
+}
+
+body{
+  font-family: Bahnschrift Light;
+
+}
+
+.firsttable {
+  background-color: #A6DCEF;
+  font-size: 180%
+}
